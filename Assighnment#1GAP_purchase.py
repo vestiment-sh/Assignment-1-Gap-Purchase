@@ -13,7 +13,6 @@ total_sales_tax = 0.0
 state_sales_tax = 0.04
 county_sales_tax = 0.04875
 
-#Insert values
 jeans = float(input('Enter the charge for the jeans: '))
 t_shirt = float(input('Enter the charge for the t-shirt: '))
 
